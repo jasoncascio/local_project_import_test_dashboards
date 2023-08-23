@@ -8,7 +8,7 @@
   - title: Map
     name: Map
     model: local_project_import_test_main
-    explore: country_mistake
+    explore: country_mistake_reference
     type: looker_google_map
     fields: [country_reference.continent, country_reference.country_name, country_reference.country_code3_with_flag]
     sorts: [country_reference.continent]
